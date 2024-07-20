@@ -1,0 +1,14 @@
+C:\Users\shweta.kale\source\repos\Reflector\bin\Debug\net8.0\Reflector.exe
+C:\Users\shweta.kale\source\repos\Reflector\bin\Debug\net8.0\Reflector.deps.json
+C:\Users\shweta.kale\source\repos\Reflector\bin\Debug\net8.0\Reflector.runtimeconfig.json
+C:\Users\shweta.kale\source\repos\Reflector\bin\Debug\net8.0\Reflector.dll
+C:\Users\shweta.kale\source\repos\Reflector\bin\Debug\net8.0\Reflector.pdb
+C:\Users\shweta.kale\source\repos\Reflector\obj\Debug\net8.0\Reflector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shweta.kale\source\repos\Reflector\obj\Debug\net8.0\Reflector.AssemblyInfoInputs.cache
+C:\Users\shweta.kale\source\repos\Reflector\obj\Debug\net8.0\Reflector.AssemblyInfo.cs
+C:\Users\shweta.kale\source\repos\Reflector\obj\Debug\net8.0\Reflector.csproj.CoreCompileInputs.cache
+C:\Users\shweta.kale\source\repos\Reflector\obj\Debug\net8.0\Reflector.dll
+C:\Users\shweta.kale\source\repos\Reflector\obj\Debug\net8.0\refint\Reflector.dll
+C:\Users\shweta.kale\source\repos\Reflector\obj\Debug\net8.0\Reflector.pdb
+C:\Users\shweta.kale\source\repos\Reflector\obj\Debug\net8.0\Reflector.genruntimeconfig.cache
+C:\Users\shweta.kale\source\repos\Reflector\obj\Debug\net8.0\ref\Reflector.dll
